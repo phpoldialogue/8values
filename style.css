@@ -60,17 +60,17 @@ p.question {
 h1 {
     color: #222222;
     font-family: 'Montserrat', sans-serif;
-    font-size: 72pt;
+    font-size: 36pt;
     text-align: center;
-    line-height: 72pt;
+    line-height: 36pt;
     margin-top: 0pt;
     margin-bottom: 0pt;
 }
 h2 {
     color: #333333;
     font-family: 'Montserrat', sans-serif;
-    font-size: 34pt;
-    line-height: 36pt;
+    font-size: 30pt;
+    line-height: 32pt;
     margin-top: 12pt;
     margin-bottom: 10pt;
 }
